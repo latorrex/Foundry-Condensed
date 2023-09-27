@@ -1,0 +1,26 @@
+{
+  "name": "Foundry Condensed",
+  "title": "Foundry Condensed",
+  "description": "",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "authors": [
+    {
+      "name": "latorrex",
+      "url": "https://github.com/latorrex",
+      
+    }
+  ],
+  "scripts": [
+    "/scripts/condenser.js"
+  ],
+  "styles": [
+    "/styles/condenser.css"
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}
